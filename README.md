@@ -1,22 +1,14 @@
-# learning-nuxtjs
+# Learning NuxtJS 🎉
 
-> Learning &amp; Experimenting (with) NuxtJS &lt;3
+> NuxtJS is a web framework using VueJS.
 
-## Build Setup
+## Learning Guidelines for myself
 
-```bash
-# install dependencies
-$ yarn install
+- **No branches**: _Keep it simple: Only master._
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+## Community Guidelines
 
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Not sure if this is interesting to look at. But feel free to use it as you wish.
+It's only for myself to try out things and learn the technology. Therefore, I'll
+**not accept pull requests**. Just because it doesn't really make sense in my
+opinion, since this is only for myself.
